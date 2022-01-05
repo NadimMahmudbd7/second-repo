@@ -205,16 +205,15 @@ span{
     margin-top: 100px;
     
 }
-.bg img{
-    position: relative;
+.bg {
+    width: 0px;
 }
 .third-right{
     width: 652px;
 }
 .third-container img{
     width: 329px;
-    margin-left: 12px;
-    position: absolute;
+    margin-left: 37px;
 }
 .third-right h1{
 
