@@ -126,6 +126,7 @@ margin-left: -8px;
 .middle-container{
     margin-top: 100px;
     margin-bottom: 100px;
+    height: 300px;
 }
 
 .middle-box{
@@ -200,10 +201,10 @@ span{
 }
 /* ------------------------------3rd container------------------------------------------------------------- */
 .third-container{
-    display: flex;
+    display: grid;
     justify-content: space-around;
     margin-top: 100px;
-    
+    grid-template-columns: 1fr 1fr 1fr 1fr;   
 }
 .bg {
     width: 0px;
@@ -213,7 +214,7 @@ span{
 }
 .third-container img{
     width: 329px;
-    margin-left: 37px;
+    margin-left: 71px;
 }
 .third-right h1{
 
@@ -229,3 +230,6 @@ line-height: 49px;
     font-weight: 300;
     margin-bottom: 1.2rem;
 }
+
+
+
