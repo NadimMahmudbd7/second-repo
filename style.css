@@ -154,6 +154,7 @@ span{
     margin-left: 2rem;
     border-radius: 16px;
     height: 266px;
+    box-shadow: 4px 5px 8px grey;
 }
 .box1 img{
     width: 130px;
@@ -173,6 +174,7 @@ span{
     margin-left: 2rem;
     border-radius: 16px;
     height: 266px;
+    box-shadow: 4px 5px 8px grey;
 }
 .box2 img{
     width: 130px;
@@ -189,6 +191,7 @@ span{
     margin-left: 2rem;
     border-radius: 16px;
     height: 266px;
+    box-shadow: 4px 5px 8px grey;
 }
 .box3 img{
     width: 130px;
