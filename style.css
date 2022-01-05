@@ -60,17 +60,31 @@
 }
 .btn a{
     
-    line-height: 50px;
-    font-size: 14px;
-    color: var(--white);
-    padding: 10px;
-    background-image: linear-gradient(245deg, #ed239f, #1d44e3 100%);
-    color: #fdfcfc;
-    padding: 19px 38px;
-    text-decoration: none;
-    font-weight: 600;
-    border-radius: 9px;
-    animation-name: animate;      
+line-height: 50px;
+    
+font-size: 14px;
+    
+color: var(--white);
+    
+padding: 10px;
+    
+background-image: linear-gradient(245deg, #ed239f, #1d44e3 100%);
+    
+color: #fdfcfc;
+    
+padding: 19px 38px;
+    
+text-decoration: none;
+    
+font-weight: 600;
+    
+border-radius: 9px;
+    
+animation-name: animate;
+    
+outline: none;
+    
+margin-left: -8px;
 }
 
 @keyframes animate{
@@ -191,12 +205,16 @@ span{
     margin-top: 100px;
     
 }
+.bg img{
+    position: relative;
+}
 .third-right{
     width: 652px;
 }
 .third-container img{
     width: 329px;
     margin-left: 12px;
+    position: absolute;
 }
 .third-right h1{
 
